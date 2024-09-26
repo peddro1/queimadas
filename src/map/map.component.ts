@@ -15,7 +15,7 @@ export class MapComponent {
   style = "mapbox://styles/mapbox/navigation-night-v1";
   lat = -59.9825041;
   long = -3.1316333;
-  zoom = 5;
+  zoom = 4;
 
   constructor(){
     //mapboxgl.config.ACCESS_TOKEN = 'YOUR_TOKEN';
